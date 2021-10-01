@@ -1,7 +1,8 @@
 #  Sie kong liong  ( Tugas kedua pemrogrman mobile)
  Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia 
 ### Screenshot
- Letakan gambar aplikasi disini 
+ ![WhatsApp Image 2021-10-01 at 16 15 30](https://user-images.githubusercontent.com/90432054/135597198-f9cd0534-bd57-4400-87d1-0da5d42013b6.jpeg)
+ 
 
 ### Built With
 -  widget Image, Text, Row, Column, dan Icon 
