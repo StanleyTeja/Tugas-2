@@ -1,13 +1,13 @@
-# {{ Simple aplikasi }} ({{ Tugas kedua pemrogrman mobile}})
-{{ Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia }}
+#  Simple aplikasi  ( Tugas kedua pemrogrman mobile)
+ Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia 
 ### Screenshot
-{{ Letakan gambar aplikasi disini }}
+ Letakan gambar aplikasi disini 
 
 ### Built With
-- {{ widget Image, Text, Row, Column, dan Icon }}
+-  widget Image, Text, Row, Column, dan Icon 
 
 ### Created By
-- {{ Stanley Tejadinata }}
+-  Stanley Tejadinata 
     
 ### Mata Kuliah
 COE-5109 Pemprograman Mobile.
