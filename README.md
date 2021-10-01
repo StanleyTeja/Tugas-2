@@ -1,4 +1,4 @@
-#  Simple aplikasi  ( Tugas kedua pemrogrman mobile)
+#  Sie kong liong  ( Tugas kedua pemrogrman mobile)
  Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia 
 ### Screenshot
  Letakan gambar aplikasi disini 
